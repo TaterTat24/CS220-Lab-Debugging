@@ -1,7 +1,7 @@
 /** 
  * ===========================================================
- * Name:
- * Section:
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Practice debugging lab.
  * ===========================================================
  */
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
             break;
 
         /* convert number */
-        sscanf(line, "%d", data[max_count]);
+        scanf(line, "%d", data[max_count]);
         max_count++;
     }
 
